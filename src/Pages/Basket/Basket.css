@@ -1,0 +1,24 @@
+.basked{
+    text-align: center;
+}
+.basked-cards{
+    display: flex;
+    padding: 50px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    gap: 20px;
+    margin-top: 50px;
+}
+.basket-card{
+    width: 250px;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.basket-card img{
+    width: 100%;
+    border-radius: 10px;
+
+
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: darkgray;
+}
+.home-page{
+    text-align: center;
+}
+.kino-cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.kinolar-text{
+  margin-top: 20px;
+  color: green;
+}

@@ -1,0 +1,25 @@
+.kinolar img{
+    width: 100%;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.kinolar{
+    background-color: coral;
+    padding: 10px;
+    width: 350px;
+    margin-top: 50px;
+
+    border-radius: 5px;
+}
+.kinolar button{
+    padding: 5px 10px;
+    background-color: royalblue;
+    border: none;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+.kinolar button:hover{
+    background-color: white;
+    color: royalblue;
+    cursor: pointer;
+}
